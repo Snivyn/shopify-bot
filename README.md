@@ -15,6 +15,7 @@ This project is a work in progress. It's main goal is to automate the checkout p
 * Profiles for user info (billing and shipping)
 * Manual captcha completion and 2Captcha support
 * Lots of error checking
+* Monitor sitemap for changes to detect new products
 
 ## Credits
  **Niveen Jegatheeswaran** - [@snivynGOD](https://twitter.com/snivynGOD)
