@@ -1,7 +1,7 @@
 # sharanga - a shopify bot
 
 ## About
-This project is a work in progress. It's main goal is to automate the checkout process on any Shopify-powered site given a few keywords. Video: https://goo.gl/7zkzkC
+This project is a work in progress. It's main goal is to automate the checkout process on any Shopify powered site given a few keywords. Video: https://goo.gl/7zkzkC
 
 ### What can this project do?
 * Find all products on a given Shopify site
