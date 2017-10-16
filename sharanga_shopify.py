@@ -8,7 +8,7 @@ import webbrowser
 
 def shopify_download(sitemap):
     '''
-    (str) -> (list)
+    (str)
     Assigns all products on a Shopify site to lists my_products and my_links.
     >>> shopify_download("https://kith.com/sitemap_products_1.xml")
     '''
@@ -67,7 +67,7 @@ def shopify_search():
 
 def add_to_cart(site, variant):
     '''
-    (str, str, int) -> str
+    (str, str) -> str
     Given a site and a variant ID, a link with the product added to the cart
     will be returned.
     >>>add_to_cart(https://shop.antisocialsocialclub.com/, 1488552847,1)
