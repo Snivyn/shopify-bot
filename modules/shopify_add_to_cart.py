@@ -8,7 +8,7 @@ import webbrowser
 
 def add_to_cart(site, variant):
     '''
-    (str, str, int) -> str
+    (str, str) -> str
     Given a site and a variant ID, a link with the product added to the cart
     will be returned.
     >>>add_to_cart(https://shop.antisocialsocialclub.com/, 1488552847,1)
