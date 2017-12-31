@@ -12,6 +12,7 @@ This project is a work in progress. Its main goal is to automate the checkout pr
 * Monitor sites until a product is found in real-time
 
 ### What's left to do?
+* Support for queue-based releases not implemented yet. Will be soon.
 * Proxy support
 * Checkout process
 * Log all events for debugging purposes
