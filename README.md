@@ -1,5 +1,4 @@
 # sharanga shopify bot v1.1
-### by @snivynGOD
 
 ## About
 This project is a work in progress. Its main goal is to automate the checkout process on any Shopify powered site given a few keywords. 
