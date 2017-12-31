@@ -1,5 +1,4 @@
-# sharanga - a shopify bot
-## v1.1
+# sharanga - a shopify bot v1.1
 ## by @snivynGOD
 
 ## About
