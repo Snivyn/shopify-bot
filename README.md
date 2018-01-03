@@ -4,7 +4,7 @@
 This project is a work in progress. Its main goal is to automate the checkout process on any Shopify powered site given a few keywords. 
 
 ### Usage
-Edit the fields under "USER SETTINGS" in the .py file. Keywords should be placed as a list, with each word seperated by a comma and placed within quotation marks. Some formatting is required for certain fields, as stated within the .py file.
+Edit the fields under "USER SETTINGS" in the .py file. Keywords should be defined as a list, with each word seperated by a comma and placed within quotation marks. Some formatting is required for certain fields, as stated within the .py file.
 
 ### What can this project do?
 * Find all products on a given Shopify site
@@ -26,7 +26,7 @@ products (i.e https://kith.com/collections/all/products.atom)
 * PEP8 compliant
 
 ### What other features are planned for a final version?
-* Rewrite in C# with a GUI
+* Rewrite in C# with a GUI (in progress)
 * Support for queue-based releases
 * Multithreading to support multiple tasks at once
 * Preload payment token with a button click by the user (i.e user can click a button to fetch payment token prior to the drop so resources aren't wasted during tasks trying to get the token, ultimately saving time) or get payment token asynchronously
